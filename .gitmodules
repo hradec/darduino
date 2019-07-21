@@ -1,0 +1,3 @@
+[submodule "usb-metamorph"]
+	path = usb-metamorph
+	url = https://github.com/gdsports/usb-metamorph.git
